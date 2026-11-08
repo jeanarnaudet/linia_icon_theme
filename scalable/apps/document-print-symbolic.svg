@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" version="1.1" id="svg3">
+  <defs id="defs3" />
+  <path style="fill:#bebebe" d="M 16,30 C 10.500842,30 6,34.500842 6,40 v 40 c 0,5.499158 4.500842,10 10,10 H 32 V 86 H 16 c -3.337398,0 -6,-2.662602 -6,-6 V 40 c 0,-3.337398 2.662602,-6 6,-6 h 96 c 3.3374,0 6,2.662602 6,6 v 40 c 0,3.337398 -2.6626,6 -6,6 H 96 v 4 h 16 c 5.49916,0 10,-4.500842 10,-10 V 40 c 0,-5.499158 -4.50084,-10 -10,-10 z" id="path1" />
+  <path style="fill:#bebebe" d="M 34,6 V 34 H 94 V 6 Z m 4,4 H 90 V 30 H 38 Z" id="rect1" />
+  <path style="fill:#bebebe" d="m 30,70 v 52 H 98 V 70 Z m 4,4 h 60 v 44 H 34 Z" id="rect2" />
+  <path style="fill:#bebebe" d="m 44,88 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 h 40 a 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z m 0,10 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 h 40 a 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z m 0,10 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 h 28 a 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z" id="path2" />
+  <path id="circle2" style="fill:#bebebe" d="m 104,46 a 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 4,4 0 0 1 4,4 z" />
+  <path id="circle3" style="fill:#bebebe" d="m 114,46 a 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 4,4 0 0 1 4,4 z" />
+</svg>
