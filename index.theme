@@ -1,0 +1,23 @@
+[Icon Theme]
+Name=LiniaIconTheme
+Comment=Inspired By The Legacy Icon Theme
+Example=gimp-wilber
+Hidden=true
+Directories=scalable/logo/unisize,scalable/apps
+
+[scalable/logo/unisize]
+MinSize=1
+Size=128
+MaxSize=256
+Context=Applications
+Type=Scalable
+
+[scalable/apps]
+MinSize=1
+Size=128
+MaxSize=256
+Context=Applications
+Type=Scalable
+
+
+
