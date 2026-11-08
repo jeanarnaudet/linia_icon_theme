@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="gtk-no-symbolic.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect6"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="5.8359375"
+     inkscape:cx="64"
+     inkscape:cy="64"
+     inkscape:window-width="1920"
+     inkscape:window-height="992"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     style="fill:#bebebe;fill-rule:evenodd"
+     d="M 65.0625 15.333984 C 62.20875 15.271484 59.350234 15.361953 57.490234 15.626953 C 36.350234 18.626953 19.860937 34.397187 15.960938 55.367188 C 15.200938 59.407187 15.051797 65.696328 15.591797 69.986328 C 17.661797 86.246328 27.381172 100.05703 41.951172 107.45703 C 49.541172 111.30703 56.840469 112.92625 65.480469 112.65625 C 73.240469 112.41625 79.261562 110.89727 86.101562 107.44727 C 90.701562 105.12727 94.191172 102.60602 97.951172 98.916016 C 107.56117 89.476016 112.73047 77.246328 112.73047 63.986328 C 112.73047 56.156328 111.00117 48.957031 107.45117 41.957031 C 100.48117 28.227031 87.861328 18.807031 72.611328 15.957031 C 70.766328 15.612031 67.91625 15.396484 65.0625 15.333984 z M 82.021484 43.613281 A 4 4 0 0 1 84.226562 44.730469 A 4 4 0 0 1 84.236328 50.388672 L 69.314453 65.361328 L 84.287109 80.283203 A 4 4 0 0 1 84.296875 85.939453 A 4 4 0 0 1 78.640625 85.949219 L 63.667969 71.027344 L 48.916016 85.828125 A 4 4 0 0 1 43.257812 85.837891 A 4 4 0 0 1 43.248047 80.181641 L 58 65.378906 L 43.199219 50.628906 A 4 4 0 0 1 43.189453 44.972656 A 4 4 0 0 1 48.847656 44.962891 L 63.646484 59.712891 L 78.568359 44.740234 A 4 4 0 0 1 82.021484 43.613281 z " />
+</svg>
