@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 127.99999 128"
+   id="svg7384"
+   height="128"
+   width="128"
+   version="1.1"
+   sodipodi:docname="gimp-tool-threshold-symbolic.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="4.8696219"
+     inkscape:cx="64.070683"
+     inkscape:cy="63.968005"
+     inkscape:window-width="1920"
+     inkscape:window-height="992"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <defs
+     id="defs7386">
+    <linearGradient
+       id="linearGradient8074">
+      <stop
+         id="stop8072"
+         offset="0"
+         style="stop-color:#be00be;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7561">
+      <stop
+         id="stop7558"
+         offset="0"
+         style="stop-color:#a5a5a5;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7548">
+      <stop
+         id="stop7546"
+         offset="0"
+         style="stop-color:#ebebeb;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7542">
+      <stop
+         id="stop7538"
+         offset="0"
+         style="stop-color:#c9c9c9;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0,-735328.32,170712.69,0,2464326300,577972450)"
+       id="linearGradient19282">
+      <stop
+         id="stop19284"
+         offset="0"
+         style="stop-color:#b4b4b4;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.34682586,0,0,0.30620888,46.648128,484.03851)"
+       id="linearGradient19282-4">
+      <stop
+         id="stop19284-0"
+         offset="0"
+         style="stop-color:#bebebe;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(278.11248,207.87838)"
+       gradientUnits="userSpaceOnUse"
+       y2="281"
+       x2="216.0002"
+       y1="281"
+       x1="202.0002"
+       id="linearGradient10064"
+       xlink:href="#linearGradient19282-4" />
+    <linearGradient
+       gradientTransform="translate(278.11248,207.87838)"
+       gradientUnits="userSpaceOnUse"
+       y2="282.5"
+       x2="215.0002"
+       y1="282.5"
+       x1="203.0002"
+       id="linearGradient10070"
+       xlink:href="#linearGradient19282-4" />
+    <linearGradient
+       gradientTransform="translate(278.11248,207.87838)"
+       gradientUnits="userSpaceOnUse"
+       y2="287.5"
+       x2="216.0002"
+       y1="287.5"
+       x1="202.0002"
+       id="linearGradient10076"
+       xlink:href="#linearGradient19282-4" />
+    <linearGradient
+       gradientTransform="translate(278.11248,207.87838)"
+       gradientUnits="userSpaceOnUse"
+       y2="290.5"
+       x2="216.0002"
+       y1="290.5"
+       x1="212.0002"
+       id="linearGradient10078"
+       xlink:href="#linearGradient19282-4" />
+    <linearGradient
+       gradientTransform="translate(278.11248,207.87838)"
+       gradientUnits="userSpaceOnUse"
+       y2="290.5"
+       x2="206.0002"
+       y1="290.5"
+       x1="202.0002"
+       id="linearGradient10080"
+       xlink:href="#linearGradient19282-4" />
+  </defs>
+  <g
+     transform="matrix(5.0049539,0,0,5.0049539,86.887611,-1335.0726)"
+     id="tools">
+    <g
+       transform="translate(-213.5214,-4.59814)"
+       id="gimp-tool-threshold">
+      <path
+         id="rect5422"
+         style="fill:#bebebe"
+         d="m 202.0002,287 h 14 v 1 h -14 z" />
+      <path
+         style="fill:#bebebe;fill-opacity:1"
+         d="m 204.0002,289 -2,3 h 4 z"
+         id="path5424" />
+      <path
+         style="fill:#bebebe;fill-opacity:1"
+         d="m 214.0002,289 -2,3 h 4 z"
+         id="path5424-6" />
+      <path
+         style="fill:#bebebe;fill-opacity:1"
+         d="m 202.0002,277 v 8 h 14 v -8 z m 1,1 h 12 v 6 h -12 z"
+         id="rect5444" />
+      <path
+         style="fill:#bebebe;fill-opacity:1"
+         d="m 203.0002,284 0.625,-0.53125 0.375,-0.46875 h 1 v 0 l 1,-1 h 1 l 1,1 h 1 l 0.46875,1 h 0.90625 l 0.625,-1 1,-1 v -1 0 0 0 l 1,1 1,1 v 0 l 1,0.40625 V 284 Z"
+         id="path5449" />
+    </g>
+  </g>
+</svg>

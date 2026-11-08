@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="svg1"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   sodipodi:docname="gimp-tool-transform-3d-symbolic.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="4.8696219"
+     inkscape:cx="64.070683"
+     inkscape:cy="63.968005"
+     inkscape:window-width="1920"
+     inkscape:window-height="992"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1" />
+  <g
+     id="g1"
+     transform="matrix(0.63589394,0,0,0.63589394,22.659666,22.365039)">
+    <g
+       id="g4"
+       transform="matrix(1.8353342,0,0,1.7880701,-34.303236,-30.801134)">
+      <path
+         style="fill:#bebebe"
+         d="m 22.308594,19.740234 a 1.150115,1.150115 0 0 0 -1.361328,1.128907 v 65.201171 a 1.150115,1.150115 0 0 0 1.373046,1.128907 L 84.65625,74.921875 a 1.150115,1.150115 0 0 0 0.927734,-1.125 L 85.71875,32.603516 a 1.150115,1.150115 0 0 0 -0.9375,-1.132813 z m 0.939453,2.515625 60.167969,11.298828 -0.128907,39.292969 -60.039062,11.824219 z"
+         id="rect1" />
+      <path
+         style="fill:#bebebe"
+         d="m 47.064453,25.039062 a 1.15,1.15 0 0 0 -1.15625,1.144532 l -0.271484,54.423828 a 1.15,1.15 0 0 0 1.142578,1.15625 1.15,1.15 0 0 0 1.15625,-1.144531 l 0.273437,-54.423829 a 1.15,1.15 0 0 0 -1.144531,-1.15625 z"
+         id="path1" />
+      <path
+         style="fill:#bebebe"
+         d="m 68.060547,29.130859 a 1.15,1.15 0 0 0 -1.146485,1.154297 l 0.136719,46.103516 a 1.15,1.15 0 0 0 1.154297,1.146484 1.15,1.15 0 0 0 1.146484,-1.152344 L 69.214844,30.277344 a 1.15,1.15 0 0 0 -1.154297,-1.146485 z"
+         id="path2" />
+      <path
+         style="fill:#bebebe"
+         d="m 23.109375,42.910156 a 1.15,1.15 0 0 0 -1.205078,1.091797 1.15,1.15 0 0 0 1.091797,1.205078 l 60.833984,3 a 1.15,1.15 0 0 0 1.205078,-1.091797 1.15,1.15 0 0 0 -1.091797,-1.205078 z"
+         id="path3" />
+      <path
+         style="fill:#bebebe"
+         d="M 83.826172,59.414062 22.582031,62.6875 a 1.15,1.15 0 0 0 -1.08789,1.210937 1.15,1.15 0 0 0 1.210937,1.085938 l 61.244141,-3.273438 a 1.15,1.15 0 0 0 1.085937,-1.208984 1.15,1.15 0 0 0 -1.208984,-1.087891 z"
+         id="path4" />
+    </g>
+  </g>
+</svg>

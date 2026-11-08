@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866668"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="gimp-transform-3d-move.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="transform_2pts"
+       start="1,294.88333"
+       end="4.2333331,294.88333"
+       id="path-effect9373"
+       is_visible="true"
+       first_knot="1"
+       last_knot="2"
+       helper_size="3"
+       stretch="1.25"
+       offset="6"
+       elastic="true"
+       from_original_width="true"
+       flip_vertical="false"
+       flip_horizontal="false"
+       lock_lenght="false"
+       lock_angle="false"
+       lpeversion="0"
+       lock_length="false" />
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2579"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:#bebebe;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <linearGradient
+       gradientTransform="matrix(0.23151041,0,0,0.23151043,1.0890012,293.03123)"
+       gradientUnits="userSpaceOnUse"
+       y2="305.36914"
+       x2="311.70312"
+       y1="305.36914"
+       x1="295.70312"
+       id="linearGradient7060-0"
+       xlink:href="#linearGradient19282-4" />
+    <linearGradient
+       gradientTransform="matrix(0.34682586,0,0,0.30620888,-53.35239,564.0385)"
+       id="linearGradient19282-4"
+       inkscape:swatch="solid">
+      <stop
+         id="stop19284-0"
+         offset="0"
+         style="stop-color:#bebebe;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.2235194"
+     inkscape:cx="8.0952746"
+     inkscape:cy="7.8704059"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="992"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050">
+    <inkscape:grid
+       type="xygrid"
+       id="grid863"
+       empspacing="4"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-292.76666)">
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:#729fcf;fill-opacity:1;stroke:#204a87;stroke-width:1.00204;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 16.730975,295.55172 -5.298354,5.28808 h 3.56193 v 7.05186 c -2.355747,-0.0227 -4.712614,-0.0303 -7.0690427,-0.053 v -3.49681 l -5.2606714,5.21779 5.2606714,5.29149 v -3.51741 c 2.3563587,-7e-5 4.7126657,-0.005 7.0690427,0 v 3.50711 3.514 h -3.56193 l 5.298354,5.25377 5.222986,-5.25377 h -3.507112 v -3.514 -3.50711 c 2.338087,0.002 4.676174,0.007 7.014226,0 v 3.51741 l 5.26067,-5.29149 -5.26067,-5.2162 v 3.50037 c -2.337878,0.0454 -4.675279,0.0606 -7.014226,0.0606 v -7.06556 h 3.507112 z"
+       id="path74740" />
+  </g>
+</svg>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="gimp-tool-move-symbolic.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="4.063309"
+     inkscape:cx="63.987257"
+     inkscape:cy="64.11031"
+     inkscape:window-width="1920"
+     inkscape:window-height="992"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <defs
+     id="defs6" />
+  <g
+     id="g1">
+    <g
+       id="path2"
+       style="stroke-width:2.6;stroke-dasharray:none;fill:#bebebe;fill-opacity:1"
+       transform="matrix(0.88854075,0,0,1.3903225,5.2276558,-26.657807)">
+      <path
+         style="fill:#bebebe;stroke-width:2.6;stroke-dasharray:none;fill-opacity:1"
+         d="m 26,64 h 76"
+         id="path9" />
+      <path
+         style="fill:#bebebe;stroke-width:2.6;stroke-dasharray:none;fill-opacity:1"
+         d="m 26,62 v 4 h 76 v -4 z"
+         id="path10" />
+    </g>
+    <path
+       d="M 61.820564,15.392771 49.909489,35.549973 h 23.822148 z"
+       style="fill:#bebebe;stroke-width:0.916237"
+       id="path3" />
+    <path
+       d="M 62.185496,108.70549 50.274422,88.548284 H 74.09657 Z"
+       style="fill:#bebebe;stroke-width:0.916237"
+       id="path4" />
+    <path
+       d="M 14.160642,61.592964 34.317845,49.68189 v 23.822148 z"
+       style="fill:#bebebe;stroke-width:0.916237"
+       id="path5" />
+    <path
+       d="M 109.29802,62.505295 89.140816,50.59422 v 23.822148 z"
+       style="fill:#bebebe;stroke-width:0.916237"
+       id="path6" />
+    <g
+       id="g7"
+       style="stroke-width:2.6;stroke-dasharray:none;fill:#bebebe;fill-opacity:1"
+       transform="matrix(0,-0.88854075,1.3903225,0,-26.886373,119.18944)">
+      <path
+         style="fill:#bebebe;stroke-width:2.6;stroke-dasharray:none;fill-opacity:1"
+         d="m 26,64 h 76"
+         id="path1" />
+      <path
+         style="fill:#bebebe;stroke-width:2.6;stroke-dasharray:none;fill-opacity:1"
+         d="m 26,62 v 4 h 76 v -4 z"
+         id="path7" />
+    </g>
+  </g>
+</svg>

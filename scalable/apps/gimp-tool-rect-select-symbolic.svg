@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 33.866667 33.866665"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="gimp-tool-rect-select-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#949494"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#7d7d7d"
+     inkscape:document-units="px"
+     inkscape:zoom="4.8378773"
+     inkscape:cx="63.870987"
+     inkscape:cy="63.974339"
+     inkscape:window-width="1920"
+     inkscape:window-height="992"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="dashed_stroke"
+       message=""
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1"
+       numberdashes="4"
+       holefactor="0"
+       splitsegments="true"
+       halfextreme="true"
+       unifysegment="true" />
+    <inkscape:path-effect
+       effect="dashed_stroke"
+       message=""
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       numberdashes="4"
+       holefactor="0"
+       splitsegments="true"
+       halfextreme="true"
+       unifysegment="true" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#bebebe;stroke-linecap:square;paint-order:markers stroke fill"
+       d="m 4.4238281,8.5820313 v 0.6601562 1.4042965 0.66211 h 1.3242188 v -0.66211 -0.7421871 h 0.828125 0.6621093 V 8.5820313 H 6.5761719 5.7480469 Z m 4.4726563,0 v 1.3222656 h 0.6601562 2.9804684 0.66211 V 8.5820313 h -0.66211 -2.9804684 z m 5.9609376,0 v 1.3222656 h 0.660156 2.980469 0.662109 V 8.5820313 h -0.662109 -2.980469 z m 5.960937,0 v 1.3222656 h 0.660157 2.982421 0.660157 V 8.5820313 h -0.660157 -2.982421 z m 5.960938,0 v 1.3222656 h 0.662109 0.828125 v 0.7421871 0.66211 h 1.322266 V 10.646484 8.5820313 H 27.441406 Z M 4.4238281,12.792969 v 0.660156 2.808594 0.660156 h 1.3242188 v -0.660156 -2.808594 -0.660156 z m 23.8457029,0 v 0.660156 2.808594 0.660156 h 1.322266 V 16.261719 13.453125 12.792969 Z M 4.4238281,18.40625 v 0.662109 2.808594 0.660156 H 5.7480469 V 21.876953 19.068359 18.40625 Z m 23.8457029,0 v 0.662109 2.808594 0.660156 h 1.322266 V 21.876953 19.068359 18.40625 Z M 4.4238281,24.021484 v 0.66211 2.064453 H 6.5761719 7.2382812 V 25.425781 H 6.5761719 5.7480469 v -0.742187 -0.66211 z m 23.8457029,0 v 0.66211 0.742187 h -0.828125 -0.662109 v 1.322266 h 0.662109 2.150391 v -2.064453 -0.66211 z M 8.8964844,25.425781 v 1.322266 h 0.6601562 2.9804684 0.66211 v -1.322266 h -0.66211 -2.9804684 z m 5.9609376,0 v 1.322266 h 0.660156 2.980469 0.662109 v -1.322266 h -0.662109 -2.980469 z m 5.960937,0 v 1.322266 h 0.660157 2.982421 0.660157 v -1.322266 h -0.660157 -2.982421 z"
+       id="rect2" />
+  </g>
+</svg>
