@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866666"
+   version="1.1"
+   id="svg886"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="gimp-pivot-south-west.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs880" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#717171"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.0963542"
+     inkscape:cx="5.9627329"
+     inkscape:cy="33.152795"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="992"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1431"
+       empspacing="4"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata883">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-293.82498)">
+    <g
+       id="g2"
+       transform="rotate(180,17.031734,310.82816)">
+      <path
+         id="path2"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.7445;stroke-linecap:square;stroke-dashoffset:3.85;stroke-opacity:0.854902;paint-order:stroke markers fill"
+         d="M 18.205208,305.63545 H -0.70389238 v -6.03556 H 18.205208 Z" />
+      <path
+         id="rect1"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.7445;stroke-linecap:square;stroke-dashoffset:3.85;stroke-opacity:0.854902;paint-order:stroke markers fill"
+         d="m 23.02381,328.85831 v -18.9091 h 6.035558 v 18.9091 z" />
+      <g
+         id="g1"
+         transform="matrix(0,-9.8925061,9.8925061,0,-2896.3491,317.62803)">
+        <path
+           id="rect1433-3"
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           transform="rotate(90)"
+           d="m 294.75101,-2.2489729 h 1.32291 v 1.32291663 h -1.32291 z" />
+        <path
+           id="rect1433"
+           style="fill:#ffffff;stroke-width:0.635;stroke-linejoin:round"
+           transform="rotate(90)"
+           d="m 294.77747,-2.2225125 h 1.27 v 1.27 h -1.27 z" />
+      </g>
+    </g>
+  </g>
+</svg>
