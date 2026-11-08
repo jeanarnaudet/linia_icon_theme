@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" version="1.1" id="svg13">
+  <defs id="defs13" />
+  <path style="fill:#bebebe" d="M 18,8 C 12.494594,8 8,12.494594 8,18 v 92 c 0,5.50541 4.494594,10 10,10 h 92 c 5.50541,0 10,-4.49459 10,-10 V 18 C 120,12.494594 115.50541,8 110,8 Z m 0,4 h 92 c 3.35859,0 6,2.641406 6,6 v 92 c 0,3.35859 -2.64141,6 -6,6 H 18 c -3.358594,0 -6,-2.64141 -6,-6 V 18 c 0,-3.358594 2.641406,-6 6,-6 z" id="rect1" />
+  <path id="rect2" style="opacity:1;fill:#bebebe" d="m 18,18 h 7.72 v 92 H 18 Z" />
+  <path id="rect3" style="opacity:0.92;fill:#bebebe" d="m 25.67,18 h 7.72 v 92 h -7.72 z" />
+  <path id="rect4" style="opacity:0.83;fill:#bebebe" d="m 33.330002,18 h 7.72 v 92 h -7.72 z" />
+  <path id="rect5" style="opacity:0.75;fill:#bebebe" d="m 41,18 h 7.72 v 92 H 41 Z" />
+  <path id="rect6" style="opacity:0.67;fill:#bebebe" d="m 48.669998,18 h 7.72 v 92 h -7.72 z" />
+  <path id="rect7" style="opacity:0.58;fill:#bebebe" d="m 56.330002,18 h 7.72 v 92 h -7.72 z" />
+  <path id="rect8" style="opacity:0.5;fill:#bebebe" d="m 64,18 h 7.72 v 92 H 64 Z" />
+  <path id="rect9" style="opacity:0.41;fill:#bebebe" d="m 71.669998,18 h 7.72 v 92 h -7.72 z" />
+  <path id="rect10" style="opacity:0.33;fill:#bebebe" d="m 79.330002,18 h 7.72 v 92 h -7.72 z" />
+  <path id="rect11" style="opacity:0.25;fill:#bebebe" d="m 87,18 h 7.72 v 92 H 87 Z" />
+  <path id="rect12" style="opacity:0.16;fill:#bebebe" d="M 94.669998,18 H 102.39 v 92 h -7.720002 z" />
+  <path id="rect13" style="opacity:0.08;fill:#bebebe" d="m 102.33,18 h 7.72 v 92 h -7.72 z" />
+</svg>

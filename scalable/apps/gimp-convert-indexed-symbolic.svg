@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" version="1.1" id="svg8">
+  <defs id="defs8" />
+  <path style="fill-rule:evenodd;fill:#bebebe" d="M64 4a60 60 0 1 0 0.01 0ZM64 12a52 52 0 1 1-0.01 0Z" id="path1" />
+  <path id="circle1" style="fill:#bebebe" d="m 73,36 a 9,9 0 0 1 -9,9 9,9 0 0 1 -9,-9 9,9 0 0 1 9,-9 9,9 0 0 1 9,9 z" />
+  <path id="circle2" style="fill:#bebebe" d="m 94.889999,46.540001 a 9,9 0 0 1 -9,9 9,9 0 0 1 -9,-9 9,9 0 0 1 9,-9 9,9 0 0 1 9,9 z" />
+  <path id="circle3" style="fill:#bebebe" d="m 100.3,70.230003 a 9,9 0 0 1 -8.999997,9 9,9 0 0 1 -9,-9 9,9 0 0 1 9,-9 9,9 0 0 1 8.999997,9 z" />
+  <path id="circle4" style="fill:#bebebe" d="m 85.150002,89.230003 a 9,9 0 0 1 -9,9 9,9 0 0 1 -9,-9 9,9 0 0 1 9,-9 9,9 0 0 1 9,9 z" />
+  <path id="circle5" style="fill:#bebebe" d="m 60.849998,89.230003 a 9,9 0 0 1 -9,9 9,9 0 0 1 -9,-9 9,9 0 0 1 9,-9 9,9 0 0 1 9,9 z" />
+  <path id="circle6" style="fill:#bebebe" d="m 45.700001,70.230003 a 9,9 0 0 1 -9,9 9,9 0 0 1 -9,-9 9,9 0 0 1 9,-9 9,9 0 0 1 9,9 z" />
+  <path id="circle7" style="fill:#bebebe" d="m 51.110001,46.540001 a 9,9 0 0 1 -9,9 9,9 0 0 1 -9,-9 9,9 0 0 1 9,-9 9,9 0 0 1 9,9 z" />
+  <path id="circle8" style="fill:#bebebe" d="m 73,64 a 9,9 0 0 1 -9,9 9,9 0 0 1 -9,-9 9,9 0 0 1 9,-9 9,9 0 0 1 9,9 z" />
+</svg>

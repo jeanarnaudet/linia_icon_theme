@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" version="1.1" id="svg16">
+  <defs id="defs16" />
+  <path style="fill:#bebebe" d="M 18,8 C 12.494594,8 8,12.494594 8,18 v 92 c 0,5.50541 4.494594,10 10,10 h 92 c 5.50541,0 10,-4.49459 10,-10 V 18 C 120,12.494594 115.50541,8 110,8 Z m 0,4 h 92 c 3.35859,0 6,2.641406 6,6 v 92 c 0,3.35859 -2.64141,6 -6,6 H 18 c -3.358594,0 -6,-2.64141 -6,-6 V 18 c 0,-3.358594 2.641406,-6 6,-6 z" id="rect1" />
+  <path style="opacity:0.08;fill:#bebebe" d="M83.60 18.00 L64.00 64.00 L64.00 18.00Z" id="path1" />
+  <path style="opacity:0.14;fill:#bebebe" d="M110.00 18.00 L110.00 18.91 L64.00 64.00 L83.05 18.00Z" id="path2" />
+  <path style="opacity:0.20;fill:#bebebe" d="M110.00 45.48 L64.00 64.00 L110.00 18.00Z" id="path3" />
+  <path style="opacity:0.26;fill:#bebebe" d="M110.00 64.46 L64.00 64.00 L110.00 44.95Z" id="path4" />
+  <path style="opacity:0.33;fill:#bebebe" d="M110.00 83.60 L64.00 64.00 L110.00 64.00Z" id="path5" />
+  <path style="opacity:0.39;fill:#bebebe" d="M110.00 110.00 L109.09 110.00 L64.00 64.00 L110.00 83.05Z" id="path6" />
+  <path style="opacity:0.45;fill:#bebebe" d="M110.00 110.00 L82.52 110.00 L64.00 64.00 L110.00 110.00Z" id="path7" />
+  <path style="opacity:0.51;fill:#bebebe" d="M63.54 110.00 L64.00 64.00 L83.05 110.00Z" id="path8" />
+  <path style="opacity:0.57;fill:#bebebe" d="M44.40 110.00 L64.00 64.00 L64.00 110.00Z" id="path9" />
+  <path style="opacity:0.63;fill:#bebebe" d="M18.00 110.00 L18.00 109.09 L64.00 64.00 L44.95 110.00Z" id="path10" />
+  <path style="opacity:0.69;fill:#bebebe" d="M18.00 82.52 L64.00 64.00 L18.00 110.00Z" id="path11" />
+  <path style="opacity:0.75;fill:#bebebe" d="M18.00 63.54 L64.00 64.00 L18.00 83.05Z" id="path12" />
+  <path style="opacity:0.82;fill:#bebebe" d="M18.00 44.40 L64.00 64.00 L18.00 64.00Z" id="path13" />
+  <path style="opacity:0.88;fill:#bebebe" d="M18.00 18.00 L18.91 18.00 L64.00 64.00 L18.00 44.95Z" id="path14" />
+  <path style="opacity:0.94;fill:#bebebe" d="M18.00 18.00 L45.48 18.00 L64.00 64.00 L18.00 18.00Z" id="path15" />
+  <path style="opacity:1.00;fill:#bebebe" d="M64.46 18.00 L64.00 64.00 L44.95 18.00Z" id="path16" />
+</svg>

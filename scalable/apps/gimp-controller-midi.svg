@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   id="svg11300"
+   sodipodi:version="0.32"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="gimp-controller-midi.svg"
+   version="1.0"
+   viewBox="0 0 128 128"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     inkscape:cy="-6.6653547"
+     inkscape:cx="63.213363"
+     inkscape:zoom="2.3254577"
+     inkscape:window-height="992"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="0.17254902"
+     bordercolor="#666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:showpageshadow="false"
+     showborder="true"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:current-layer="layer1"
+     width="16px"
+     height="16px"
+     showgrid="false"
+     inkscape:window-maximized="1"
+     inkscape:document-units="px"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4301"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     stroke="#ef2929"
+     fill="#eeeeec"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="0.25490196"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="-14.198652"
+     inkscape:cy="-5.1663457"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="872"
+     inkscape:window-height="659"
+     inkscape:window-x="403"
+     inkscape:window-y="296"
+     id="namedview73" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>http://jimmac.musichall.cz</dc:source>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <g
+       id="g5"
+       transform="translate(0,-6.4503432)">
+      <g
+         id="g4144"
+         transform="matrix(3.5738147,0,0,3.5738147,7.0945864,62.050556)">
+        <rect
+           width="15.508446"
+           height="15.508446"
+           x="0.245777"
+           y="0.24577703"
+           id="full"
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.491554;stroke-miterlimit:2;stroke-dasharray:none" />
+        <rect
+           y="0.22317998"
+           x="4.7231793"
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.446359;stroke-miterlimit:2;stroke-dasharray:none"
+           height="15.553641"
+           width="6.5536408"
+           id="rD" />
+        <rect
+           y="0.20611984"
+           x="3.2061195"
+           style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.412239;stroke-miterlimit:2;stroke-dasharray:none"
+           height="9.5877609"
+           width="3.5877607"
+           id="rCs" />
+        <rect
+           y="0.20612027"
+           x="9.2061195"
+           style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.41224;stroke-miterlimit:2;stroke-dasharray:none"
+           height="9.58776"
+           width="3.5877604"
+           id="rDs" />
+      </g>
+      <g
+         id="g4"
+         transform="matrix(3.5738147,0,0,3.5738147,62.63814,62.050556)">
+        <rect
+           width="15.508446"
+           height="15.508446"
+           x="0.245777"
+           y="0.24577703"
+           id="rect1"
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.491554;stroke-miterlimit:2;stroke-dasharray:none" />
+        <rect
+           y="0.22317998"
+           x="4.7231793"
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.446359;stroke-miterlimit:2;stroke-dasharray:none"
+           height="15.553641"
+           width="6.5536408"
+           id="rect2" />
+        <rect
+           y="0.20611984"
+           x="3.2061195"
+           style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.412239;stroke-miterlimit:2;stroke-dasharray:none"
+           height="9.5877609"
+           width="3.5877607"
+           id="rect3" />
+        <rect
+           y="0.20612027"
+           x="9.2061195"
+           style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.41224;stroke-miterlimit:2;stroke-dasharray:none"
+           height="9.58776"
+           width="3.5877604"
+           id="rect4" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.4879px;font-family:Angora;-inkscape-font-specification:Angora;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.88659;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:3.85;paint-order:stroke markers fill"
+       x="3.7462363"
+       y="40.431927"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         x="3.7462363"
+         y="40.431927"
+         style="stroke-width:2.88659">MIDI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:0.5692;stroke:#007cc1;stroke-width:0.9;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:3.85;paint-order:stroke markers fill"
+       x="61.869541"
+       y="-5.4827919"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         x="61.869541"
+         y="-5.4827919" /></text>
+  </g>
+</svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="gimp-detach-symbolic.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="2.0633155"
+     inkscape:cx="63.974705"
+     inkscape:cy="64.217033"
+     inkscape:window-width="1920"
+     inkscape:window-height="992"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     style="fill:#bebebe;fill-rule:evenodd;stroke-width:0.706154"
+     d="M 46.415589,49.625139 C 36.939264,62.124888 29.187386,72.399326 29.187386,72.46063 c 0,0.06743 15.552561,0.116475 34.570285,0.116475 19.017724,0 34.570282,-0.04905 34.570282,-0.116475 0,-0.17165 -34.440135,-45.554503 -34.570282,-45.554503 -0.06507,0 -7.865756,10.225394 -17.342082,22.719012 z M 20.443137,98.710725 v 6.510415 H 63.757671 107.0722 V 98.710725 92.194169 H 63.757671 20.443137 Z"
+     id="path1" />
+</svg>
