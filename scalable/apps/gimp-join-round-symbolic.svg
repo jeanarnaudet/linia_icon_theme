@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" version="1.1" id="svg2">
+  <defs id="defs2" />
+  <path style="fill:#bebebe" d="M 72,22 C 44.409452,22 22,44.409452 22,72 v 54 H 82 V 82 h 44 V 22 Z m 0,4 h 50 V 78 H 78 v 44 H 26 V 72 C 26,46.571212 46.571212,26 72,26 Z" id="path1" />
+  <path style="fill:#bebebe" d="m 52,48 a 4.0004,4.0004 0 0 0 -4,4 v 72 h 8 V 56 h 68 v -8 z" id="path2" />
+</svg>

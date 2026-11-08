@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   sodipodi:docname="gimp-gravity-west.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#cccccc"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="1.3755437"
+     inkscape:cx="24.7175"
+     inkscape:cy="25.080992"
+     inkscape:window-width="1920"
+     inkscape:window-height="992"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1">
+    <inkscape:grid
+       id="grid2"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="false" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <g
+       id="g2"
+       transform="matrix(-1,0,0,1,130.01004,-0.72698529)">
+      <path
+         id="path4"
+         style="fill:#ffffff;stroke:#000000;stroke-width:4.40457;stroke-linecap:square;stroke-linejoin:miter;stroke-dashoffset:3.85;stroke-opacity:0.854902;paint-order:stroke markers fill"
+         d="m 96.002179,65.027166 -25.348441,-24.234465 0.01886,19.739133 -28.749231,-0.148587 0.121308,10.969299 28.744072,-0.317892 0.3081,20.121123 z"
+         sodipodi:nodetypes="cccccccc" />
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:4.27406;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:3.85;stroke-opacity:0.854902;paint-order:stroke markers fill"
+         id="rect4"
+         width="69.790527"
+         height="8.2391644"
+         x="-100.11083"
+         y="101.74694"
+         transform="rotate(-90)" />
+    </g>
+  </g>
+</svg>

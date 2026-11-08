@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="gimp-landscape-symbolic.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="2.0633155"
+     inkscape:cx="64.217033"
+     inkscape:cy="54.523896"
+     inkscape:window-width="1920"
+     inkscape:window-height="992"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     style="fill:#bebebe;fill-rule:evenodd;stroke-width:0.937864"
+     d="m 9.3701507,16.792101 -0.236066,94.589309 c 2.7989013,-0.0963 105.7512553,0.12946 109.8882453,-0.0405 l 0.0859,-94.575364 c -2.17352,0.09126 -109.7380993,0.02653 -109.7380993,0.02653 z M 40.198515,30.8485 c 2.579128,0.543961 4.436099,1.575612 6.461887,3.610778 5.280177,5.280177 5.280177,13.045696 0,18.325873 -5.280178,5.280177 -13.045696,5.280177 -18.325873,0 -2.035166,-2.025788 -3.066817,-3.882759 -3.610778,-6.461887 -0.947243,-4.492371 0.290738,-8.543945 3.610778,-11.863986 3.320041,-3.329419 7.371615,-4.558021 11.863986,-3.610778 z M 114.38115,94.290061 C 112.00427,94.457429 13.253907,94.114882 11.50924,94.04181 11.781221,93.254004 28.756568,68.747605 28.981656,68.822634 c 0.410602,0.128304 22.3356,18.068471 22.574398,17.781911 11.424879,-16.600081 22.406924,-32.532618 33.571395,-50.66316 z"
+     id="path1"
+     sodipodi:nodetypes="cccccccscccccccccc" />
+</svg>

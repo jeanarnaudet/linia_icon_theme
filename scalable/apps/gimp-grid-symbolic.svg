@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="gimp-grid-symbolic.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="5.8359375"
+     inkscape:cx="63.914324"
+     inkscape:cy="64"
+     inkscape:window-width="1920"
+     inkscape:window-height="992"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     style="fill:#bebebe;fill-rule:evenodd;stroke-width:0.769574"
+     d="M 19.629518,66.399663 V 111.61212 H 64.549532 109.47724 V 66.399663 21.187211 H 64.549532 19.629518 Z M 48.48853,37.348257 V 50.431009 H 35.505823 22.515419 V 37.348257 24.265505 H 35.505823 48.48853 Z m 28.281832,0 V 50.431009 H 64.164745 51.566825 V 37.348257 24.265505 h 12.59792 12.605617 z m 29.628588,0 V 50.431009 H 93.123802 79.848657 V 37.348257 24.265505 H 93.123802 106.39895 Z M 48.48853,66.207269 V 78.905235 H 35.805956 c -6.972337,0 -12.821097,-0.05387 -12.982707,-0.115436 -0.277047,-0.107741 -0.30783,-1.400624 -0.30783,-12.697966 V 53.509304 H 35.505823 48.48853 Z m 28.281832,0 V 78.905235 H 64.164745 51.566825 V 66.207269 53.509304 h 12.59792 12.605617 z m 29.628588,0.130828 V 79.159194 L 98.749385,79.036062 C 94.547513,78.966801 88.567926,78.905235 85.47424,78.905235 H 79.848657 V 66.207269 53.509304 H 93.123802 106.39895 Z M 48.48853,95.358715 V 108.72622 H 35.505823 22.515419 V 95.389505 c 0,-7.341735 0.03848,-13.375193 0.07696,-13.421367 0.04617,-0.04617 5.894935,-0.06157 12.990404,-0.03078 l 12.90575,0.05387 z m 28.281832,-0.008 V 108.72622 H 64.164745 51.566825 V 95.351025 81.983529 h 12.59792 12.605617 z m 21.802022,-13.236358 7.826566,0.123132 V 95.481855 108.72622 H 93.123802 79.848657 V 95.351025 81.983529 h 5.448581 c 3.001337,0 8.973229,0.05387 13.275146,0.130828 z"
+     id="path1" />
+</svg>
