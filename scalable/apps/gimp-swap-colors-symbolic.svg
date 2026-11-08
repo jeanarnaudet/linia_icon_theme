@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="gimp-swap-colors-symbolic.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="5.7978936"
+     inkscape:cx="63.988756"
+     inkscape:cy="64.074995"
+     inkscape:window-width="1920"
+     inkscape:window-height="992"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     style="fill:#bebebe;fill-rule:evenodd;stroke-width:0.765256;stroke-dasharray:none"
+     d="m 33.11907,36.489721 c -6.094223,4.278478 -11.075345,7.819527 -11.068388,7.868225 0,0.0487 1.391375,1.189626 3.081895,2.539259 1.690521,1.349634 6.692514,5.363751 11.110129,8.911757 4.424573,3.554963 8.083889,6.462937 8.132587,6.462937 0.05565,0 0.0974,-2.859276 0.0974,-6.358584 v -6.358583 l 12.91196,0.06957 c 11.103172,0.05565 13.078924,0.104353 14.0668,0.340887 3.179292,0.765256 4.716761,2.414036 5.294182,5.662896 0.271318,1.53747 0.320016,8.083889 0.132181,19.395767 l -0.11131,7.075142 h -6.247274 c -3.436696,0 -6.219446,0.06261 -6.191618,0.139137 0.201749,0.493938 18.143529,22.282869 18.254839,22.171559 0.07653,-0.0765 3.58279,-5.106345 7.798656,-11.179697 l 7.666476,-11.047517 -5.02982,-0.04174 -5.02982,-0.0487 -0.08348,-14.038973 C 87.814019,52.900988 87.758364,51.954853 86.826142,48.281624 85.615646,43.502251 83.145956,40.837768 78.83965,39.655099 75.709057,38.799403 74.735094,38.750705 59.123867,38.667223 l -14.651178,-0.07653 v -4.946338 c 0,-2.713181 -0.06261,-4.939381 -0.139137,-4.939381 -0.07653,0 -5.12026,3.499308 -11.214482,7.784743 z"
+     id="path1" />
+</svg>

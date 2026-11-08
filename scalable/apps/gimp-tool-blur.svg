@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   fill="none"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="gimp-tool-blur.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#b0b0b0"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#888888"
+     inkscape:zoom="2.7510873"
+     inkscape:cx="71.244558"
+     inkscape:cy="56.159614"
+     inkscape:window-width="1920"
+     inkscape:window-height="992"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <defs
+     id="defs7">
+    <filter
+       id="filter0_f_522_91"
+       x="0"
+       y="14"
+       width="23"
+       height="10"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood4" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="BackgroundImageFix"
+         result="shape"
+         id="feBlend4" />
+      <feGaussianBlur
+         stdDeviation="1.5"
+         result="effect1_foregroundBlur_522_91"
+         id="feGaussianBlur4" />
+    </filter>
+    <radialGradient
+       id="paint0_radial_522_91"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-27.94185,-26.586312,34.927919,-47.854735,-20.007002,63.885855)">
+      <stop
+         offset="0.1"
+         stop-color="#ECF0F3"
+         stop-opacity="0.95"
+         id="stop4" />
+      <stop
+         offset="0.4"
+         stop-color="#5E87BB"
+         stop-opacity="0.7"
+         id="stop5" />
+      <stop
+         offset="0.7"
+         stop-color="#5D87BB"
+         stop-opacity="0.7"
+         id="stop6" />
+      <stop
+         offset="0.93"
+         stop-color="#99BFE7"
+         stop-opacity="0.8"
+         id="stop7" />
+    </radialGradient>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter49"
+       x="-0.17025797"
+       y="-0.11659951"
+       width="1.3405155"
+       height="1.2998923">
+      <feFlood
+         result="flood"
+         in="SourceGraphic"
+         flood-opacity="0.443137"
+         flood-color="rgb(81,81,81)"
+         id="feFlood48" />
+      <feGaussianBlur
+         result="blur"
+         in="SourceGraphic"
+         stdDeviation="3.400000"
+         id="feGaussianBlur48" />
+      <feOffset
+         result="offset"
+         in="blur"
+         dx="0.000000"
+         dy="6.200000"
+         id="feOffset48" />
+      <feComposite
+         result="comp1"
+         operator="in"
+         in="flood"
+         in2="offset"
+         id="feComposite48" />
+      <feComposite
+         result="comp2"
+         operator="over"
+         in="SourceGraphic"
+         in2="comp1"
+         id="feComposite49" />
+    </filter>
+  </defs>
+  <g
+     id="g6"
+     transform="translate(74.904779,1.0249496)">
+    <path
+       id="path5"
+       style="opacity:1;fill:#c3d3e6;fill-opacity:0.913725;stroke:#2b61af;stroke-width:5.25407;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 22.909508,79.514017 c 1e-6,18.223424 -15.5216679,32.451193 -33.996033,32.451193 -18.474365,0 -33.632541,-14.591262 -33.63254,-32.814686 0,-9.111711 4.232756,-18.490093 23.655625,-38.544681 9.631659,-9.944924 9.100007,-26.67 10.522154,-26.620842 1.3079501,0.04521 1.6800251,18.248216 9.3460281,25.964632 C 20.72598,62.015028 22.909507,70.402306 22.909508,79.514017 Z"
+       sodipodi:nodetypes="sssssss" />
+    <path
+       d="m -10.692529,103.76549 c -11.547227,-5.3e-4 -26.168869,-8.940891 -25.582087,-23.927992 1.132351,-15.951643 11.326655,-22.608669 15.924326,-27.359628 5.179574,-5.498961 9.802716,-12.716763 9.802716,-12.716763 0,0 3.4235686,6.30907 9.2374534,11.626285 C 8.4691215,64.680428 12.665798,63.340616 13.798381,79.292259 14.398669,94.27936 0.84519822,103.76656 -10.692529,103.76549 Z"
+       fill="url(#paint0_radial_522_91)"
+       id="path3"
+       style="fill:url(#paint0_radial_522_91);stroke-width:4.97617"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+</svg>

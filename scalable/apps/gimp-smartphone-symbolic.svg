@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg7384"
+   height="128"
+   width="128"
+   version="1.1"
+   sodipodi:docname="gimp-smartphone-symbolic.svg"
+   viewBox="0 0 128 128"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><defs
+     id="defs9" /><sodipodi:namedview
+     pagecolor="#565656"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="992"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="3.5605563"
+     inkscape:cx="60.383823"
+     inkscape:cy="72.601016"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#717171"><inkscape:grid
+       type="xygrid"
+       id="grid4232"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" /></sodipodi:namedview><metadata
+     id="metadata90"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Gnome Symbolic Icon Theme</dc:title></cc:Work></rdf:RDF></metadata><title
+     id="title9167">Gnome Symbolic Icon Theme</title><path
+     id="rect1"
+     style="fill:#bebebe;stroke-width:2.5;stroke-linecap:square;paint-order:markers stroke fill"
+     d="m 42.128865,10.672643 c -5.290184,0 -9.548829,4.258644 -9.548829,9.548828 v 88.189449 c 0,5.29018 4.258645,9.54883 9.548829,9.54883 h 42.126953 c 5.290182,0 9.548832,-4.25865 9.548832,-9.54883 V 20.221471 c 0,-5.290184 -4.25865,-9.548828 -9.548832,-9.548828 z m -0.28125,7.863281 H 85.09957 V 97.176549 H 41.847615 Z m 21.345703,83.695306 a 5.3362451,5.3362451 0 0 1 5.335937,5.33594 5.3362451,5.3362451 0 0 1 -5.335937,5.33594 5.3362451,5.3362451 0 0 1 -5.337891,-5.33594 5.3362451,5.3362451 0 0 1 5.337891,-5.33594 z" /></svg>

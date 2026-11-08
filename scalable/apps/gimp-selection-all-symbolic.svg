@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="gimp-selection-all-symbolic.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="dashed_stroke"
+       message=""
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       numberdashes="4"
+       holefactor="0"
+       splitsegments="true"
+       halfextreme="true"
+       unifysegment="true" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="5.8359375"
+     inkscape:cx="64"
+     inkscape:cy="64"
+     inkscape:window-width="1920"
+     inkscape:window-height="992"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     style="fill:none;stroke:#bebebe;stroke-width:4.5;stroke-linecap:square;paint-order:markers stroke fill;stroke-dasharray:none"
+     id="rect1"
+     width="94.072289"
+     height="94.072289"
+     x="18.334671"
+     y="18.848728"
+     inkscape:path-effect="#path-effect1"
+     sodipodi:type="rect"
+     d="m 18.334671,26.688086 v -7.839358 h 7.839357 m 15.678715,0 h 15.678715 m 15.678715,0 h 15.678714 m 15.678713,0 h 7.83936 v 7.839358 m 0,15.678714 v 15.678715 m 0,15.678715 v 15.678715 m 0,15.678715 v 7.83936 h -7.83936 m -15.678713,0 H 73.210173 m -15.678715,0 H 41.852743 m -15.678715,0 h -7.839357 v -7.83936 m 0,-15.678715 V 73.72423 m 0,-15.678715 V 42.3668 m 0,-15.678714 v -7.839358" />
+</svg>

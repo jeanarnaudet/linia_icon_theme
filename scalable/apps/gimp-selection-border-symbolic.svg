@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="gimp-selection-border-symbolic.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="2.9179688"
+     inkscape:cx="64.085676"
+     inkscape:cy="63.914324"
+     inkscape:window-width="1920"
+     inkscape:window-height="992"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     style="fill:#bebebe;fill-rule:evenodd;stroke-width:0.751539"
+     d="M 6.0123159,3.006158 V 6.0123159 H 3.006158 0 V 15.03079 24.049264 H 3.006158 6.0123159 V 15.03079 6.0123159 H 15.03079 24.049264 V 3.006158 0 H 15.03079 6.0123159 Z m 33.0677381,0 v 3.0061579 h 9.018473 9.018474 V 3.006158 0 h -9.018474 -9.018473 z m 33.067737,0 v 3.0061579 h 9.018474 9.018474 V 3.006158 0 H 81.166265 72.147791 Z M 30.06158,27.055422 v 3.006158 h -3.006158 -3.006158 v 9.018474 9.018473 h 3.006158 3.006158 V 39.080054 30.06158 h 9.018474 9.018473 V 27.055422 24.049264 H 39.080054 30.06158 Z m 36.073895,0 v 3.006158 h 9.018474 9.018474 V 27.055422 24.049264 H 75.153949 66.135475 Z M 0,48.098527 v 9.018474 H 3.006158 6.0123159 V 48.098527 39.080054 H 3.006158 0 Z m 24.049264,27.055422 v 9.018474 h 3.006158 3.006158 V 75.153949 66.135475 H 27.055422 24.049264 Z M 0,81.166265 v 9.018474 H 3.006158 6.0123159 V 81.166265 72.147791 H 3.006158 0 Z"
+     id="path1" />
+</svg>

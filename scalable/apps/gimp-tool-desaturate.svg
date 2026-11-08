@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   fill="none"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="gimp-tool-desaturate.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="1.9453125"
+     inkscape:cx="11.823293"
+     inkscape:cy="12.080321"
+     inkscape:window-width="1920"
+     inkscape:window-height="992"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <g
+     id="g1"
+     transform="matrix(1.140155,0,0,1.140155,-3.5134657,4.8836388)">
+    <path
+       d="m 22.304019,36.551843 -3.460794,-1.514101 v 3.777519 54.352075 2.470548 h 2.470549 79.057756 2.47055 V 93.167336 73.402945 71.787206 l -1.48035,-0.647778 z"
+       fill="url(#paint0_linear_139_88)"
+       stroke="#585a56"
+       id="path1"
+       style="fill:url(#paint0_linear_139_88);stroke-width:4.9411" />
+    <path
+       d="m 21.313774,11.639224 h -2.470549 v 2.470548 19.764391 1.615789 l 1.480353,0.647629 79.05776,34.587783 3.460742,1.513952 V 68.461847 14.109772 11.639224 h -2.47055 z"
+       fill="url(#paint1_linear_139_88)"
+       stroke="#28508b"
+       id="path2"
+       style="fill:url(#paint1_linear_139_88);stroke-width:4.9411" />
+    <rect
+       x="23.784323"
+       y="16.58032"
+       width="74.116463"
+       height="74.116463"
+       stroke="#ffffff"
+       stroke-opacity="0.5"
+       id="rect2"
+       style="stroke-width:4.9411" />
+    <path
+       d="M 8.8839975,28.468602 113.09486,74.048746 110.94054,78.495734 6.7295801,32.915294 Z"
+       fill="#4f575f"
+       id="path3"
+       style="stroke-width:4.9411" />
+  </g>
+  <defs
+     id="defs7">
+    <filter
+       id="filter0_f_139_88"
+       x="-2"
+       y="16"
+       width="28"
+       height="9"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood4" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="BackgroundImageFix"
+         result="shape"
+         id="feBlend4" />
+      <feGaussianBlur
+         stdDeviation="1.5"
+         result="effect1_foregroundBlur_139_88"
+         id="feGaussianBlur4" />
+    </filter>
+    <linearGradient
+       id="paint0_linear_139_88"
+       x1="4.0014701"
+       y1="12"
+       x2="20.001499"
+       y2="12"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.9410977,0,0,4.9410977,1.5421687,-5.6546184)">
+      <stop
+         stop-color="#E0E0E0"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="#5F5F5F"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       id="paint1_linear_139_88"
+       x1="4.0014701"
+       y1="12"
+       x2="20.001499"
+       y2="12"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.9410977,0,0,4.9410977,1.5421687,-5.6546184)">
+      <stop
+         stop-color="#CAD8EB"
+         id="stop6" />
+      <stop
+         offset="1"
+         stop-color="#345A8A"
+         id="stop7" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1">
+      <rect
+         width="24"
+         height="24"
+         fill="#ffffff"
+         id="rect1"
+         x="7.3784872e-09"
+         y="2.7677123e-08"
+         style="stroke-width:1" />
+    </clipPath>
+  </defs>
+</svg>
