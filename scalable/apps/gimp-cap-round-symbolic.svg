@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   sodipodi:docname="gimp-cap-round-symbolic.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="2.0490606"
+     inkscape:cx="79.060617"
+     inkscape:cy="97.849715"
+     inkscape:window-width="1132"
+     inkscape:window-height="948"
+     inkscape:window-x="629"
+     inkscape:window-y="115"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <path
+       id="rect2"
+       style="fill:#bebebe;stroke-width:1.11495;stroke-linecap:square;stroke-dashoffset:3.85;paint-order:fill markers stroke;fill-opacity:1"
+       d="m 63.551286,29.814453 c -16.953028,0 -30.601563,13.648535 -30.601563,30.601563 V 128 H 94.383317 V 60.416016 c 0,-16.953028 -13.648534,-30.601563 -30.601563,-30.601563 z" />
+  </g>
+</svg>
